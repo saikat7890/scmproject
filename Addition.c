@@ -12,6 +12,10 @@ int main()
         printf("%d",j);
     }
     printf("\nThe Sum is : %d\n", sum);
+
     printf("Sum was printed");
+
+    printf("Final copy");
+
     return 0;
 }
